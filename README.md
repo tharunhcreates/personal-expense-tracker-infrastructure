@@ -95,3 +95,4 @@ A secure, automated, multi-cloud infrastructure deployment workflow with reviewe
 
 **Project:** Personal Expense Tracker Infrastructure Automation  
 **Focus:** GitOps, Terraform, CI/CD, Multi-Cloud and DevSecOps
+Terraform CI pipeline validation test.
